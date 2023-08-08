@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alperen ŞİMŞEK</h1>
-<h3 align="center">a computer engineer from turkey</h3>
+<h3 align="center">Computer Engineering Student at Artvin Coruh University</h3>
 
 - 🌱 I’m currently learning **C**
 
